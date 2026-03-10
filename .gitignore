@@ -1,0 +1,7 @@
+build/
+vendor/imgui/
+*.exe
+*.dll
+*.o
+*.obj
+*.d
