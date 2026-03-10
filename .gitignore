@@ -1,5 +1,6 @@
 ﻿build/
 vendor/imgui/
+extensions/vegame
 *.exe
 *.dll
 *.o
